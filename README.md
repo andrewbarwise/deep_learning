@@ -1,1 +1,1 @@
-# deep_learning_with_pytorch
+Working through the book 'Deep Learning with Pytorch'. 
